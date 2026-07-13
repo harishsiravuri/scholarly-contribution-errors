@@ -1,0 +1,21 @@
+# SHA-256 manifest for the scholarly contribution error-detection release
+# Generated 2026-07-13T07:12:46Z
+#
+80120083644f9c8005f18750c3d5687318d5f5ec3a15bdea70225b8f4a2b0575  DATASHEET.md
+b639b7ac445147bea32b6d74e871b81b88a9557b2725bf0e4274e3a84ec8b01c  LICENSE
+af678210a15bb24138ccc933c1c47247fb7945676d91d4048ec72c0e19095275  README.md
+0243c102f1dd879ff5b103d87168efcc8ee41e8a367870415e104d0ddf7ab6fc  REPRODUCIBILITY.md
+4638bec6f1a69ccb5d8cb03d4e0ec67256dd7518f5e790847a916b02734ca425  SCHEMA.md
+a1218bac68c78d847b4c1105e932c69fe0ca7f7234a65f41c43a1d155082c8e0  data/contribution_graph.parquet
+7f1099cf926b5f7b020ccbceff95e259dbb26ee031cd4bce9ce79d75eefb925a  data/human_validation.csv
+3a6c2ecd3644cdb361bda3e47965d0eb6139354443f0ea9e13aeacb82e6a3306  data/second_annotator_overlap.csv
+2cc1a91ad94709043422e84c3205f4750b9ac58da65e24dac10292cbdc20e9a6  load.py
+#
+# Frozen gold provenance -- Papers with Code snapshot dated 2025-07-28
+# (service retired 2025-07-24), CC BY-SA 4.0, public pwc-archive mirror on Hugging Face.
+# Component SHA-256 (as pinned during extraction):
+#   fa59d1e5471749a40995b7821084432b2c5e81be20b3d38c4b1aa0c42e7fbc01  pwc_datasets
+#   2b78d66e8dc616eb87f43bb21ae0dfe9c74ac54e85bda822293fec7f914e918d  pwc_evaluation-tables
+#   c845ff642112a345f6271bf954d007c6698088d7de525f3f8d5f7d975f142c76  pwc_links-between-paper-and-code
+#   85c28648f762d79565a878ccaf08b5757782d4de4876446cb06de1ada3ae4abf  pwc_methods
+#   766ec93cbc01de98519801886e98d5b2d9005a9f4e3dc3e60d1319a69383cda0  pwc_papers-with-abstracts

@@ -1,0 +1,151 @@
+fact_id,tuple,value,human_label,error_type
+c93a168ca4c7add7,UMAEA | OpenEA D - W - V 1 | H@10 | 0.881,0.881,correct,
+8058555469655335,ClinicalBERT | OpenI | AUC | 0.967,0.967,correct,
+49ff8e94ec678b31,Ocean +AR | VOT2021 | accuracy | 0.756,0.756,correct,
+bcf93e831dc228d0,CorrTracker | MOT20 | MOTA | 65.2,65.2,correct,
+f3e0d48dbf63e159,SOTA Method 2 | IEMOCAP | Accuracy | 0.8,0.8,correct,
+6533e0fce44cf02b,SACL | MELD | FMI | 0.82,0.82,genuinely-wrong,not-a-result
+0391fa485236c826,TriCL | Cora | F1 | 0.865,0.865,correct,
+8c9b3a8b2b944b7c,Sparse xDeepFM | Criteo | LogLoss | 0.4421,0.4421,correct,
+bfebde1359c3704f,I3D | Kinetics-400 | Top-5 Accuracy | 0.9,0.9,correct,
+c8ec1982c84c3a77,GCN-V | Citeseer | Accuracy | 68.1,68.1,correct,
+8c93911c7dd043be,Hiera-B+ | COCO | AP box | 53.5,53.5,correct,
+e2d5b493a6ae12c4,Ours ( t = 1.0 𝑡 1.0 t=1.0 ) | LSUN Bedroom | Density | 1.51,1.51,correct,
+2c751698f6ab1caf,MvP | ACOS | F1 | 61.54,61.54,correct,
+439c2f813eb9c111,StyleGAN2 | FFHQ | FID | 42.62,42.62,correct,
+5cf9e35af2197454,BSN | ActivityNet-1.3 | AR@100 | 74.16,74.16,correct,
+9aaf18bfa50033cb,InstructBLIP (Vicuna-7B) | ScienceQA (image-context) | accuracy | 79.5,79.5,correct,
+c330411105ff62b7,C | VOC12 val | Mean AP v o l b | 43.2,43.2,genuinely-wrong,wrong-pairing
+890bea6f497ee454,VSE++ | RSICD | R@5 | 11.32,11.32,correct,
+aa05eaa880752707,Figment-GM | 20NG | Acc | 0.421,0.421,correct,
+07809eedc296671f,"MSNEA* ( Chen et al . , 2022b ) | DBP15K J A−E N | MRR | 0.718",0.718,genuinely-wrong,wrong-pairing
+ed4aaeb4dd767770,GCAT | WN18 | MRR | 0.393,0.393,correct,
+32e52480ca5044bc,DistMult | FB15k-237 | Hits@10 | 0.419,0.419,correct,
+98849941437c089d,MVU | Austin VIOLA | Top-1 Accuracy | 33.3,33.3,correct,
+e013fc2624aad9e3,OnPro | CIFAR-100 | Top-1 Accuracy | 0.765,0.765,genuinely-wrong,not-a-result
+228afa578f0895d2,Auto-Evolve | BigBench-Hard | performance boost | 2.8,2.8,genuinely-wrong,not-a-result
+97db6bdcf5902918,Q-ViD XXL | NExT-QA | Cau | 66.5,66.5,correct,
+48d42ad0c9c47d72,CLIP | P-Mam | Avg | 67.9,67.9,correct,
+d6126a0868b94fbf,TokenLearner 16at18+ L/14 | Kinetics-400 | Top-1 accuracy | 84.7,84.7,correct,
+78c4fd1df9515eff,ColBERT-v2 1 | MS MARCO | nDCG@10 | 0.381,0.381,genuinely-wrong,wrong-pairing
+438a4ed51c5f4ce8,"SMKD (Hao, Min, and Chen 2021) | PHOENIX14 | WER | 20.8",20.8,correct,
+c546c64151f36a02,AE | FMNIST | AUC | 71.6,71.6,correct,
+e1d13f0a83bce018,PaLM 2 | BoolQ | accuracy | 71.59,71.59,genuinely-wrong,wrong-pairing
+f89fe94bbbb012a1,U 2 PL (w/ AEL) | blender PASCAL VOC 2012 | mIoU | 77.21,77.21,genuinely-wrong,wrong-pairing
+c55d32885e7a29cc,NeRF | Synthetic-NSVF | PSNR | 30.81,30.81,correct,
+444be45290d092e8,SCINet | ETTh1 | MAE | 0.23,0.23,genuinely-wrong,wrong-pairing
+783e4eff54ff9d05,PatchTST | ETTh2 | MSE | 0.338,0.338,correct,
+d9eeb2e422726228,NN-QI | VisDial v0.5 | MRR | 0.385,0.385,correct,
+ad3f9afe002828c6,ViT-PCM Ours | MS-COCO 2014 val | mIoU(%) | 45.0,45.0,correct,
+710cbb347b4c5960,Deeplabv2-CRF | PASCAL VOC 2012 | mean-IoU | 79.7,79.7,correct,
+05e2387953d31ae9,ICNet | Cityscapes | mIoU | 70.6,70.6,correct,
+e49ac7ef94c87160,SimplE | FB15k | MRR | 0.942,0.942,genuinely-wrong,wrong-pairing
+1fc92252be277588,InstructBLIP (FlanT5 XL) | MSRVTT-QA | Top-1 Accuracy | 47.1,47.1,genuinely-wrong,not-a-result
+2980fcbb44920b35,MEI 3×100 | WN18RR | MRR | 0.746,0.746,correct,
+c91facf641d1773e,Ours(Segformer) | SUN | mIoU | 50.4,50.4,correct,
+009a10076379f793,YOLO-SAM 2 | CVC-ColonDB | mDice | 0.917,0.917,genuinely-wrong,wrong-value
+7b24136b416d31b8,"With II**, L1 | Cora | Mean classification accuracy | 84.91",84.91,correct,
+92e52841a3746fdd,Ours ( t = 0.9 𝑡 0.9 t=0.9 ) | LSUN Churches | Density | 1.07,1.07,correct,
+e519a98ffbbbf780,Oscar+ B w/ VinVL | GQA | Test-dev | 65.05,65.05,correct,
+f772e937a0dd47ab,Ego-Exo | Charades-Ego | Top-1 Accuracy | 0.755,0.755,genuinely-wrong,not-a-result
+084c235b8cf8c271,VRT | Vid4 | PSNR | 27.25,27.25,correct,
+6424b10f06c7908d,LAMOL | 20News | Acc | 0.8891,0.8891,genuinely-wrong,wrong-pairing
+0ff2e04887dbd791,character-based neural MT system | German-English WMT | BLEU | 3.0,3.0,genuinely-wrong,not-a-result
+2474832c97bb3424,SiamFC | OTB-2013 | Prec | 0.85,0.85,genuinely-wrong,wrong-pairing
+2408b835d8aea1d2,SimpleX | Gowalla | NDCG@20 | 0.0575,0.0575,genuinely-wrong,wrong-pairing
+a1a904bba003fb42,ADM-G-U | ImageNet | Pr | 0.83,0.83,correct,
+6e9cd032a8c56506,Ours | SHREC15 | Accuracy | 96.09,96.09,correct,
+dd61bfc60033ab75,Graylight!30 EVA-CLIP-18B + | average of top-1 and top-5 accuracy for Kinetics-700 | avg | 75.0,75.0,correct,
+29530ff8dd6f8766,DGCNN | ModelNet40 | Overall Accuracy | 92.9,92.9,correct,
+180a30fd92512d4d,image-level recognition | hockey | accuracy | 91.4,91.4,correct,
+d22907742ae119a6,IDT | Charades | mAP | 17.2,17.2,correct,
+ac5f87899f30f4ce,DCNN | QM8 | Validation MAE ( × 1.0 ​ e − 3 ) | 10.14,10.14,correct,
+bf5a321a540d6349,STORM | public datasets | 3D EPE | 0.422,0.422,genuinely-wrong,not-a-result
+70636d903b586fc6,Our Model | WMT’14 En-De | BLEU | 21.61,21.61,correct,
+8e683659a30ad362,TuckER | FB15k-237 | Hits@1 | 0.266,0.266,correct,
+0458e8c3d0ae3c05,SGC | A-Photo | Accuracy | 0.9347,0.9347,genuinely-wrong,wrong-pairing
+06b8f656cc574d9f,SiamFC++ | GOT10k | SR 0.50 | 69.5,69.5,correct,
+d5793a876860d477,Swin-HTC++ | COCO val2017 | AP | 49.5,49.5,correct,
+6d0313e896e22fcd,SCINet | ETTm1 | MAE | 0.3,0.3,genuinely-wrong,wrong-pairing
+d8b9fd255f2e4fcb,Ours | StreetScene | RBDC | 0.3065,0.3065,correct,
+6825dea9c6f0ee9e,LSTM (pretrain) | R52 | Accuracy | 90.48,90.48,correct,
+19c6247befc813e9,P.V | MR | Accuracy | 74.8,74.8,correct,
+3416e717e0844aaa,FID | CUB-200-2011 | FID (truncated σ 𝜎 ) | 33.61,33.61,genuinely-wrong,wrong-pairing
+54d75ed642a432d2,RGCN | IMDB | Micro-F1 | 0.5212,0.5212,correct,
+a4907e16768ccdf7,LightGCN | Amazon-Book | Recall@20 | 0.0411,0.0411,correct,
+b72a7c43eb330c53,LM-LSTM-CRF | 𝔻 T 𝔻 T | P | 43.52,43.52,correct,
+9ba1306e29f1fc6d,StyleGAN2 | 1024 | Seconds / 1k images | 184.97,184.97,correct,
+f833d3c1008a9343,DA-VSN | Cityscapes | mIoU | 0.675,0.675,correct,
+02d1a0be9a6e3ab5,PIR | RSICD | R@10 | 39.16,39.16,correct,
+8b4307483e07e3ee,Autoformer | ETTm1 | MSE | 0.345,0.345,genuinely-wrong,wrong-pairing
+23a7cde9c3bed44f,CoModGAN | Large | FID | 6.68,6.68,correct,
+7f87c06eddbdea7b,rerunSVD | AS | Average MAP | 0.1607,0.1607,correct,
+f37c665ad1486c10,Baseline Method 2 | Market-1501 | mAP | 0.65,0.65,correct,
+73fa7818e3310033,"AdvCAM (Lee, Kim, and Yoon 2021) | PASCAL VOC 2012 | mIoU | 55.6",55.6,correct,
+df091fca4499dbbb,RSN | WOD test set | Mean L2 mAPH | 70.2,70.2,correct,
+6630bcfa3d23c47a,Autoformer | Electricity | Zero-shot | 0.431,0.431,genuinely-wrong,wrong-pairing
+f079731ac9691ba6,GCAT | YAGO3-10 | MRR | 0.392,0.392,correct,
+4b1d1ef9b85ef2b4,FTVSR | Vid4 | PSNR | 22.61,22.61,correct,
+229d393ea646276d,DialogueRNN | IEMOCAP | Accuracy | 0.74,0.74,correct,
+164f753271067a68,HexPlane | synthesis dataset | PSNR | 31.04,31.04,genuinely-wrong,wrong-pairing
+1cab94fec6d1f39d,"DDPG | gripper | R av,lowd | 0.655",0.655,correct,
+aec29fdff1aa462f,R | CompCars | classification accuracy | 0.585,0.585,correct,
+3af4b2524bc1fbce,MST++ | NTIRE 2022 HSI Dataset - Valid | PSNR | 34.32,34.32,correct,
+0b540144283b23d2,wmd | bbcsport | test error | 50.71,50.71,correct,
+b7510a0deba452cb,FS-BAN | miniImageNet | Top-1 Accuracy | 0.638,0.638,correct,
+563ea41f0bc8665c,LLaVA-AlignedVQ | VQAv2 | Accuracy | 79.98,79.98,correct,
+75b3a78cd968322f,OSTrack384 +ours( τ = 9 𝜏 9 =9 ) | OTB100 | AUC | 0.6954,0.6954,correct,
+122b654c99e9c38f,GPT-3 Few-Shot | NQs | acc | 29.9,29.9,correct,
+c885bc44e2f195b0,SLA-Adapter | CSL-Daily | WER | 29.0,29.0,correct,
+71ec07a4de133e1b,TD3 | Hopper | Average Return | 3304.75,3304.75,correct,
+0185ffa62ec6f51f,UDPv1 | COCO val | AP | 67.2,67.2,correct,
+17b6586fdb3f9cb4,Deep ReAder-Writer | AGENDA | F1 | 0.855,0.855,genuinely-wrong,not-a-result
+dc3e7a600595fda8,"DRIMA (Son et al., 2022) | offensive scenarios | win-rate | 96.9",96.9,correct,
+43a1a48836818783,GMEZO | StarCraft | mean win percentage | 100.0,100.0,correct,
+13434665acad8846,VL-T5 | ChartQA | Overall | 41.56,41.56,correct,
+93b2e7785f1a6e82,OpenImages V5 | IC03 | Recognition Accuracy | 94.1,94.1,correct,
+2d2a08dedb3be4ef,DialogueGCN | IEMOCAP | Accuracy | 0.762,0.762,correct,
+fc667b7054366f93,DeepLabv3 | PASCAL VOC 2012 val set | mIOU | 78.05,78.05,genuinely-wrong,wrong-pairing
+7f2ccdcf5b878362,OA-CNNs | nuScenes | nuScenes | 78.9,78.9,genuinely-wrong,wrong-pairing
+307ec887d40d27e6,STAR-Net | IIIT5K | Acc | 81.8,81.8,correct,
+57b98bd5b1bf536a,DropBlock | PASCAL VOC 2012 | mIOU (%) | 53.4,53.4,correct,
+c1f79ac8878b35ed,CONTA (Zhang et al. 2020) | MS COCO 2014 | Val | 33.4,33.4,correct,
+59c4135d5f174981,DC-AE | ImageNet 512 × 512 | FID | 0.22,0.22,genuinely-wrong,wrong-pairing
+aabd16ee3306c80d,CR-CLIP | EPIC-KITCHENS-100 | mAP | 66.78,66.78,correct,
+153825c74091adf0,MSMN | MIMIC-IV-ICD-9-50 | micro F1 | 71.85,71.85,correct,
+39238c695862e6c5,PSA | PASCAL VOC 2012 test | mIoU | 89.1,89.1,genuinely-wrong,wrong-pairing
+fc92c501bcf8c3bd,MetaSAug with cross-entropy loss | CIFAR-LT-10 | Top-1 error | 23.11,23.11,correct,
+0c8815e5f74a26d4,STTN | YouTube-VOS | E warp | 0.0884,0.0884,correct,
+0a3672caeb8eb841,Light Weight Residual Dense Attention Net | NTIRE 2020 challenge | MRAE | 0.0457,0.0457,correct,
+4a6de656a1d43e94,Dlinear | Weather | Zero-shot | 0.241,0.241,genuinely-wrong,wrong-pairing
+0353b43034daaa22,PPC | PascalVOC 2012 train | BPM | 61.5,61.5,correct,
+f17b6a02b9129d59,TPG | GuessWhat?! | Improvement | 5.0,5.0,genuinely-wrong,not-a-result
+19f0bd960bfd20fd,"N-Gram, XGB Path | QM9 | MAE | 1.265",1.265,genuinely-wrong,not-a-result
+747684e8cde5ced8,Dlinear | Electricity | Zero-shot | 0.18,0.18,genuinely-wrong,wrong-pairing
+142244918b8e9aa6,RBPN/6 | SPMCS-32 | SSIM | 0.883,0.883,correct,
+9afb4e5c44733358,AdaptOR | COCO | Mean IoU | 0.434,0.434,correct,
+cfc799ca6e86ba03,MobileBERT | ATIS | Accuracy (%) | 96.3,96.3,correct,
+6618ef210a2adc33,MixViT-L | VOT2020 | EAO | 0.567,0.567,correct,
+9ad81cc7ffcd3109,MGP-STR Vision | IC15 | Accuracy | 86.25,86.25,correct,
+ee3536bc31c1d697,CMNeXt | MFNet | mIoU | 60.25,60.25,genuinely-wrong,wrong-pairing
+7733de7d89cb3606,SHINE | labeled heterogeneous sentiment dataset | link prediction | 0.891,0.891,genuinely-wrong,not-a-result
+2435ba6559e8ee39,DirectSpec | LightGCN | NDCG | 0.765,0.765,genuinely-wrong,wrong-pairing
+fc0e383c766c6472,MMGCN | IEMOCAP | wa-F1 | 65.71,65.71,correct,
+a5a3fdec65c596d8,Ours | NeRF-DS | LPIPS | 0.1905,0.1905,correct,
+84b0dc042fed0221,StyleGAN2 | AFHQ Dog | FID | 0.2,0.2,genuinely-wrong,wrong-pairing
+f5342e52bac3c56b,HarDNet-MSEG | CVC-ClinicDB | mean Dice | 0.932,0.932,correct,
+6425cc365bf7a0f8,bc-LSTM | IEMOCAP | Accuracy | 0.782,0.782,correct,
+a01f630e24a5f185,"MCLEA* ( Lin et al . , 2022 ) | DBP15K F R−E N | H@10 | 0.909",0.909,correct,
+796d7c70a941183d,proc | 2012 | semantic textual similarity | 56.49,56.49,correct,
+cfe73bdc450fb89e,"DDPG | blockworld1 | R best,pix | 1.299",1.299,correct,
+e80400e455f59363,SimpleX | Gowalla | Recall | 0.1872,0.1872,correct,
+84a489abc4ff9954,MMCL | NTU RGB+D | Accuracy | 92.3,92.3,correct,
+ce06703366b9f20d,LinkDistMLP | Pubmed | Accuracy | 72.41,72.41,correct,
+6e5b4f7b36cb67b6,"Joint LAAT (Vu et al., 2020 ) | MIMIC-IV-ICD-9-Full | macro F1 | 14.17",14.17,correct,
+7550675f18c46247,Bilinear | VQA | Accuracy | 0.64,0.64,correct,
+061fdeab4c133c46,GCN | ACM-3 | Macro-F1 | 0.8955,0.8955,correct,
+8377b7690d9dd996,+LN | Malware | AUC | 0.7341,0.7341,correct,
+b6b34a6e9323ace8,PointNet | ShapeNetPart | mIoU | 80.4,80.4,correct,
+ad319cf7335b99f1,Octave UNet | CHASE DB1 | Sensitivity | 0.867,0.867,correct,
+9577ecc87a8eccc9,Our SDA w/ k 𝑘 k -means | Market-1501 → MSMT17 | mAP | 20.6,20.6,correct,
+e6464c2f03faa471,Ours | PASCAL VOC 2012 | mIoU | 70.8,70.8,correct,
