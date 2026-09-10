@@ -1,10 +1,9 @@
 # Scholarly Contribution Graph: Error-Detection Resource
 
-This repository releases the artifacts described in the paper *Detecting Wrong Facts in
-Automatically Built Scholarly Contribution Graphs: A Neural-Symbolic Approach*. It contains
+This repository releases the artifacts described in the paper *Triaging Defects in Scholarly Result Graphs with Extraction, Evidence, and
+Consistency Signals*. It contains
 only those artifacts and their documentation.
 
-*Anonymized for double-blind review.*
 
 ## Contents
 
