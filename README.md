@@ -39,3 +39,21 @@ The `error_score` column is the learned neural-symbolic error score. Facts with 
 True` carry `correctness_label` and `gold_value` (the real-error benchmark). `human_validation.csv`
 is the deployment-population validation. All numbers reported in the paper can be reproduced
 from these files together with `REPRODUCIBILITY.md`.
+
+## Citation
+
+If you use these artifacts, please cite:
+
+> Harish Varma Siravuri, Akhil Pandey Akella, and Hamed Alhoori. 2026. Triaging Defects in Scholarly Result Graphs with Extraction, Evidence, and Consistency Signals. In *Proceedings of the 2026 ACM/IEEE Joint Conference on Digital Libraries (JCDL '26), October 13–16, 2026, Frisco, TX, USA*. ACM, New York, NY, USA. https://doi.org/10.1145/3805696.3846034
+
+```bibtex
+@inproceedings{siravuri2026triaging,
+  title     = {Triaging Defects in Scholarly Result Graphs with Extraction, Evidence, and Consistency Signals},
+  author    = {Siravuri, Harish Varma and Akella, Akhil Pandey and Alhoori, Hamed},
+  booktitle = {Proceedings of the 2026 ACM/IEEE Joint Conference on Digital Libraries (JCDL '26)},
+  year      = {2026},
+  doi       = {10.1145/3805696.3846034},
+  publisher = {ACM},
+  address   = {New York, NY, USA}
+}
+```
